@@ -18,7 +18,7 @@ Home::
 Comprises options like font size, font styles, font colour, background colour, alignment, formatting options and styles, insertion and deletion of cells and editing options
 
 Insert::
-Comprises options like table format and style, inserting images and figures, adding graphs, charts and sparklines, header and footer option, equation and symbols
+Comprises options like table format and style, inserting images and figures, adding graphs, charts and sparklines, header and footer option, equation and symbols.
 
 Page Layout::
 Themes, orientation and page setup options are available under the page layout option
