@@ -34,3 +34,5 @@ Proofreading can be done for an excel sheet (like spell check) in the review cat
 
 View;;
 Different views in which we want the spreadsheet to be displayed can be edited here. Options to zoom in and out and pane arrangement are available under this categoryey-
+
+![certificate](Screenshot_20240722-043739_Chrome.jpg)
